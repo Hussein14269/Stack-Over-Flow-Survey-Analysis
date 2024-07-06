@@ -13,10 +13,10 @@ The dataset is available as a .csv file here.
 
 The below table lists the questions asked in the survey and the column under which the response was collected.
 
-Column Name	Question Text
-Respondent	Randomized respondent ID number (not in order of survey response time)
-MainBranch	Which of the following options best describes you today? Here, by “developer” we mean “someone who writes code.”
-Hobbyist	Do you code as a hobby?
+Column Name	                                 Question Text
+Respondent: 	Randomized respondent ID number (not in order of survey response time)
+MainBranch: 	Which of the following options best describes you today? Here, by “developer” we mean “someone who writes code.”
+Hobbyist: 	Do you code as a hobby?
 OpenSourcer	How often do you contribute to open source?
 OpenSource	How do you feel about the quality of open source software (OSS)?
 Employment	Which of the following best describes your current employment status?
